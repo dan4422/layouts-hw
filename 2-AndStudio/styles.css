@@ -63,6 +63,7 @@
 
 .case p {
     color: grey;
+    line-height: 1.5em;
 }
 
 .deliverable {
@@ -223,13 +224,13 @@
 }
 
 .ending p {
-    font-size: 25px;
+    font-size: 20px;
     max-width: 40%;
     line-height: 50px;
 }
 
 .ending div {
-    font-size: 25px;
+    font-size: 20px;
     color: blue;
 }
 
